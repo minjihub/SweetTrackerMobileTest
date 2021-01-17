@@ -1,5 +1,5 @@
 # SweetTrackerMobileTest
-배송조회 화면 만들기
+2020. 02 배송조회 화면 만들기
 
 ### 언어
 - Kotlin
